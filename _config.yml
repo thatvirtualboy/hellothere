@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : rakTech, LLC                               
 your_link                                 : https://raktech.app                     
-your_city                                 : USA                                
+your_city                                 : the USA                                
 email_address                             : raktech_dev@icloud.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Security
     description                           : Lock your app with biometric authentication (Pro)
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : fingerprint
   
   - title                                 : Favorites
     description                           : Some cards deserve more attention -- easily find your favorites
@@ -61,15 +61,15 @@ features                                  :
 
   - title                                 : Widgets
     description                           : Feature your cards right on your homescreen
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : images
 
   - title                                 : Apple exclusive
-    description                           : Built and designed exclusively for iOS 16
-    fontawesome_icon_name                 : link
+    description                           : Designed exclusively for iPhone (iPad coming soon)
+    fontawesome_icon_name                 : apple
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : iOS 16
+    description                           : Built natively for iOS 16 APIs
+    fontawesome_icon_name                 : mobile
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
