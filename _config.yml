@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : The app you've always wanted
     description                           : But didn't know you needed
-    fontawesome_icon_name                 : mobile-screen
+    fontawesome_icon_name                 : star
     
   - title                                 : An essential tool
     description                           : Never feel bad for tossing another greeting card
@@ -65,7 +65,7 @@ features                                  :
 
   - title                                 : Apple exclusive
     description                           : Designed exclusively for iPhone (iPad coming soon)
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : certificate
 
   - title                                 : iOS 16
     description                           : Built natively for iOS 16 APIs
