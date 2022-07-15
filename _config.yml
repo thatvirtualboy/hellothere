@@ -37,17 +37,17 @@ features                                  :
 
   - title                                 : The app you've always wanted
     description                           : But didn't know you needed
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : cards
     
-  - title                                 : An essential tool
+  - title                                 : Essential
     description                           : Never feel bad for tossing another greeting card
-    fontawesome_icon_name                 : user-friends
+    fontawesome_icon_name                 : cards-blank
 
-  - title                                 : Privacy is king
+  - title                                 : Privacy
     description                           : No personally identifiable information is ever collected
     fontawesome_icon_name                 : lock
 
-  - title                                 : iCloud sync
+  - title                                 : iCloud
     description                           : Folders and cards are automatically synced and backed up to iCloud (Pro)
     fontawesome_icon_name                 : cloud
 
@@ -65,11 +65,11 @@ features                                  :
 
   - title                                 : Apple exclusive
     description                           : Designed exclusively for iPhone (iPad coming soon)
-    fontawesome_icon_name                 : certificate
+    fontawesome_icon_name                 : heart
 
   - title                                 : iOS 16
     description                           : Built natively for iOS 16 APIs
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : cogs
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
