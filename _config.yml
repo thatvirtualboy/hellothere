@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Toss the card, not the memory
+app_description                           : Never Forget
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : The app you've always wanted
     description                           : But didn't know you needed
-    fontawesome_icon_name                 : cards
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Essential
     description                           : Never feel bad for tossing another greeting card
-    fontawesome_icon_name                 : cards-blank
+    fontawesome_icon_name                 : check
 
   - title                                 : Privacy
     description                           : No personally identifiable information is ever collected
