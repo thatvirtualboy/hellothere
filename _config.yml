@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Greeting Cards, meet iOS
+  - title                                 : Greeting cards, meet iOS
     description                           : Catalog and inventory cards from friends and family
     fontawesome_icon_name                 : mobile
     
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : images
 
   - title                                 : Apple exclusive
-    description                           : Designed exclusively for iPhone (iPad coming soon)
+    description                           : Designed exclusively for iPhone and iPad
     fontawesome_icon_name                 : heart
 
   - title                                 : iOS 16
