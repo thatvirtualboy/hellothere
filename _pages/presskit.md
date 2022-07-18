@@ -46,6 +46,7 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 | Unlimited Folders | | * |
 | Unlimited Cards | * | * |
 | Unlimited Senders | * | * |
+| Featured Folder Image | * | * |
 | Configurable Text Overlays | * | * |
 | Metadata Export | * | * |
 | Share Individual Projects | * | * |
@@ -62,6 +63,25 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 1. $0.99 / month
 2. $7.99 / year
 3. One-time payment of $19.99 for a Lifetime Subscription 
+
+### App Screenshots
+<p float="left">
+<img src="/assets/folders2.png" width="300" />
+<img src="/assets/addnew.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/cards.png" width="300" />
+<img src="/assets/chart.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/celebrate.png" width="300" />
+<img src="/assets/folderview.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/card1.png" width="300" />
+<img src="/assets/card2.png" width="300" />
+</p>
+
 
 ### App Store Details
 **Apple App ID:** 1632485298  
