@@ -21,12 +21,12 @@ Cards are stored locally on your device as well as synced to iCloud.
 Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, and much more.
 
 ### App Features 
-• Designed with the latest iOS 16 APIs
-• Live Text makes your cards come to life
-• Charts reveal trends and sender data
-• Widgets for your home screen and lock screen
-• Card Details display the card images, who sent it, when it was received, and additional details  
-• Browse cards by occasion, by favorites, or the entire collection by date
+• Designed with the latest iOS 16 APIs  
+• Live Text makes your cards come to life  
+• Charts reveal trends and sender data  
+• Widgets for your home screen and lock screen  
+• Card Details display the card images, who sent it, when it was received, and additional details   
+• Browse cards by occasion, by favorites, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
 • Cards and folders are fully editable  
 • iCloud Sync & Backup*  
@@ -67,10 +67,10 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 ### App Screenshots
 <p float="left">
 <img src="/presskit/assets/folders2.png" width="300" />
-<img src="/assets/addnew.png" width="300" />
+<img src="presskit/assets/addnew.png" width="300" />
 </p>
 <p float="left">
-<img src="/assets/cards.png" width="300" />
+<img src="assets/cards.png" width="300" />
 <img src="/assets/chart.png" width="300" />
 </p>
 <p float="left">
