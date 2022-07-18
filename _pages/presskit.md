@@ -66,11 +66,11 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 
 ### App Screenshots
 <p float="left">
-<img src="/presskit/assets/folders2.png" width="300" />
-<img src="presskit/assets/addnew.png" width="300" />
+<img src="/assets/folders2.png" width="300" />
+<img src="/assets/addnew.png" width="300" />
 </p>
 <p float="left">
-<img src="assets/cards.png" width="300" />
+<img src="/assets/cards.png" width="300" />
 <img src="/assets/chart.png" width="300" />
 </p>
 <p float="left">
