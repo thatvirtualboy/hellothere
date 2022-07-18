@@ -43,19 +43,19 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 
 | Feature | Basic | Pro |
 | --- | --- | --- |
-| Unlimited Folders | | * |
-| Unlimited Cards | * | * |
-| Unlimited Senders | * | * |
-| Featured Folder Image | * | * |
-| Configurable Text Overlays | * | * |
-| Metadata Export | * | * |
-| Share Individual Projects | * | * |
-| Multiple Photos per Card |  | * (up to 4) |
+| Unlimited folders | | * |
+| Unlimited cards | * | * |
+| Unlimited senders | * | * |
+| Featured folder image | * | * |
+| Configurable text overlays | * | * |
+| Metadata export | * | * |
+| Share individual projects | * | * |
+| Multiple photos per card |  | * (up to 4) |
 | Widgets | * | * | 
-| Color-Matched Widgets |  | * |
-| iCloud Sync & Backup |  | * |
-| Additional Color Themes |  | * |
-| Custom Icons |  | * |
+| Color-matched widgets |  | * |
+| iCloud sync & backup |  | * |
+| Additional color themes |  | * |
+| Custom icons |  | * |
 | Touch ID / Face ID |  | * |
 
 Hello There Pro offers the best user experience and is available in 3 flavors:
@@ -66,7 +66,7 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 
 ### App Screenshots
 <p float="left">
-<img src="/assets/folders2.png" width="300" />
+<img src="/presskit/assets/folders2.png" width="300" />
 <img src="/assets/addnew.png" width="300" />
 </p>
 <p float="left">
