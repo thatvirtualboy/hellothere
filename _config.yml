@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Hello There - Greeting Cards                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1632485298                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -35,8 +35,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : The app you've always wanted
-    description                           : But didn't know you needed
+  - title                                 : Greeting Cards, meet iOS
+    description                           : Catalog and inventory cards from friends and family
     fontawesome_icon_name                 : mobile
     
   - title                                 : Essential
