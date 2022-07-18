@@ -67,7 +67,7 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 ### App Screenshots
 <p float="left">
 <img src="assets/folders2.png" width="300" />
-<img src="/assets/addnew.png" width="300" />
+<img src="https://github.com/sonasapps/hellothere/blob/master/assets/addnew.png" width="300" />
 </p>
 <p float="left">
 <img src="/assets/cards.png" width="300" />
