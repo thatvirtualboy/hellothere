@@ -12,11 +12,11 @@ include_in_header: true
 
 ![](assets/hellothere-promo1.png)<br><br>
 
-We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. But how many of us keep these cards forever? How often do we quickly forget the thought and care that went into picking out the perfect card, and mailing it to us?
+We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and mailing the card to us.
 
-Hello There is the solution. It allows you to document the cards you receive. You categorize them into "Folders" for the occasion, then take pictures of the front, inside, and back of the card. Add the date the card was received, who sent it, and any additional details.
+Hello There is the solution. It allows you to document the cards you receive. You categorize them into *Folders* for the occasion, then take pictures of the front, inside, and back of the card. Add the date the card was received, who sent it, and any additional details.
 
-Saved cards are stored locally on device as well as synced to iCloud.
+Cards are stored locally on your device as well as synced to iCloud.
 
 Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, and much more.
 
