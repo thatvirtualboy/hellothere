@@ -41,7 +41,9 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 
 **Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
 
-### Feature Breakdown
+![](assets/hellothere-promo2.png)<br><br>
+
+### Plan Breakdown
 
 | Feature | Basic | Pro |
 | --- | --- | --- |
