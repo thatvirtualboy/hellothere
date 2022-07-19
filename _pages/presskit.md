@@ -10,7 +10,7 @@ include_in_header: true
 
 **Hello There** is an app for people of all ages, in all walks of life, who receive greeting cards from friends and family. 
 
-![](/assets/hellothere-promo1.png)<br><br>
+![](assets/hellothere-promo1.png)<br><br>
 
 We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and mailing the card to us.
 
