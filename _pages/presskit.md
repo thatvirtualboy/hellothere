@@ -7,6 +7,7 @@ include_in_header: true
 # Press Kit
 
 ### Hello There - Greeting Cards
+#### Launching this Fall
 
 **Hello There** is an app for people of all ages, in all walks of life, who receive greeting cards from friends and family. 
 
