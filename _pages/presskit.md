@@ -26,9 +26,11 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 • Charts reveal trends and sender data  
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
+• Configure portait, landscape, or square cards
 • Browse cards by occasion, by favorites, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
 • Cards and folders are fully editable  
+• Easy to maintain *Senders* list
 • iCloud Sync & Backup*  
 • iPad support  
 • Face ID / Touch ID*   
