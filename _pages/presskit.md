@@ -13,9 +13,9 @@ Do you hate throwing away greeting cards, but hate keeping them too?
 
 ![](assets/hellothere-promo1.png)<br><br>
 
-We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and mailing the card to us.
+We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and getting the card in the mail.
 
-Hello There is the solution. It allows you to document the cards you receive. You categorize them into *Folders* for the occasion, then take pictures of the front, inside, and back of the card. Add the date the card was received, who sent it, and any additional details.
+Hello There is the solution. It allows you to catalog and reference the cards you receive. You categorize them into *Folders* for the occasion, then take pictures of the front, inside, and back of the card. Add the date the card was received, who sent it, and any additional details.
 
 Cards are stored locally on your device as well as synced to iCloud.
 
