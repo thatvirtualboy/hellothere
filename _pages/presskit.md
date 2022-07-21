@@ -9,7 +9,7 @@ include_in_header: true
 ### Hello There - Greeting Cards
 #### Launching this Fall
 
-**Hello There** is an app for people of all ages, in all walks of life, who receive greeting cards from friends and family. 
+Do you hate throwing away greeting cards, but hate keeping them too?
 
 ![](assets/hellothere-promo1.png)<br><br>
 
@@ -85,6 +85,10 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 <p float="left">
 <img src="assets/card1.png" width="300" />
 <img src="assets/card2.png" width="300" />
+</p>
+<p float="left">
+<img src="assets/widgets.png" width="300" />
+<img src="assets/lockwidgets.png" width="300" />
 </p>
 
 
