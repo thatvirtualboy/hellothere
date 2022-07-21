@@ -42,6 +42,10 @@ features                                  :
   - title                                 : Essential
     description                           : Never feel bad for tossing another greeting card
     fontawesome_icon_name                 : check
+    
+  - title                                 : Widgets
+    description                           : Feature cards on your homescreen, and stats on your lock screen
+    fontawesome_icon_name                 : images
 
   - title                                 : Privacy
     description                           : No personally identifiable information is ever collected
@@ -59,16 +63,12 @@ features                                  :
     description                           : Some cards deserve more attention -- easily find your favorites
     fontawesome_icon_name                 : star
 
-  - title                                 : Widgets
-    description                           : Feature your cards right on your homescreen
-    fontawesome_icon_name                 : images
-
   - title                                 : Apple exclusive
     description                           : Designed exclusively for iPhone and iPad
     fontawesome_icon_name                 : heart
 
   - title                                 : iOS 16
-    description                           : Built natively for iOS 16 APIs
+    description                           : Built natively using the latest APIs
     fontawesome_icon_name                 : cogs
 
   - title                                 : # New Feature Title
