@@ -52,7 +52,7 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 | Unlimited cards | * | * |
 | Unlimited senders | * | * |
 | Featured folder image | * | * |
-| Configurable text overlays | * | * |
+| Swift Charts | * | * |
 | Metadata export | * | * |
 | Share individual projects | * | * |
 | Multiple photos per card |  | * (up to 4) |
