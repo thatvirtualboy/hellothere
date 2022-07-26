@@ -75,7 +75,27 @@ features                                  :
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
+# Press Review List                       Edit, add or remove press reviews to be presented.
+pressreviews                              :
 
+  - author                                : @joshdholtz
+    quote                                 : I hate throwing away cards, but also hate keeping them, so this is great!
+    sitename                              : 
+    siteurl                               : 
+    fontawesome_icon_name                 : newspaper
+    
+  - author                                : @jmarcus93
+    quote                                 : This is one of the best ideas I’ve seen in a long time! ...Clean interface and fixes a problem for me personally! Amazing.
+    sitename                              : Twitter
+    siteurl                               : https://twitter.com/JMarcus93/status/1551872541303635968
+    fontawesome_icon_name                 : newspaper
+    
+  - author                                : @t87
+    quote                                 : That’s a wonderful idea, I love it!
+    sitename                              : Twitter
+    siteurl                               : https://twitter.com/t87/status/1550275112041332736 
+    fontawesome_icon_name                 : newspaper
+    
 
 # Theme Settings
 topbar_color                              : "#000000"
