@@ -97,3 +97,6 @@ Hello There Pro offers the best user experience and is available in 3 flavors:
 **Category:** Lifestyle  
 **Developer:** rakTech LLC (USA)  
 **Contact:** You can contact me at [raktech_dev@icloud.com](mailto:raktech_dev@icloud.com) or on Twitter: [@hellothere_app](https://twitter.com/hellothere_app) / [@thatvirtualboy](https://twitter.com/thatvirtualboy)
+
+### Pre-release announcements
+The details, features, and user experience displayed in this Press Release are pre-release iterations of Hello There. Final features and GUI may be different. Please take this into consideration when utilizing any screenshots or details for media coverage or personal expectations.
