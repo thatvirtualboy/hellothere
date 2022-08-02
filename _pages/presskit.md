@@ -58,6 +58,7 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 | Multiple photos per card |  | * (up to 4) |
 | Widgets | * | * | 
 | Color-matched widgets |  | * |
+| Configurable Wallpaper |  | * |
 | iCloud sync & backup |  | * |
 | Additional color themes |  | * |
 | Custom icons |  | * |
