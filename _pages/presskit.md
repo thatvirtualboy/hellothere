@@ -64,11 +64,11 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 | Custom icons |  | * |
 | Touch ID / Face ID |  | * |
 
-Hello There Pro offers the best user experience and is available in 3 flavors:
+Hello There Pro offers the best user experience and is available in 3 options:
 
-1. $0.99 / month
-2. $7.99 / year
-3. One-time payment of $19.99 for a Lifetime Subscription 
+1. Monthly Auto-Renewable Subscription
+2. Annual Auto-Renewable Subscription
+3. One-time payment for a Lifetime Subscription 
 
 ### App Screenshots
 <p float="left">
