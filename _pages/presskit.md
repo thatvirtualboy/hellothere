@@ -31,7 +31,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 • Browse cards by occasion, by favorites, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
 • Cards and folders are fully editable  
-• Easy to maintain *Senders* list. 
+• Easy to maintain *Senders* list.  
 • iCloud Sync & Backup*  
 • iPad support  
 • Face ID / Touch ID*   
