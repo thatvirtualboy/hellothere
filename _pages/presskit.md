@@ -13,11 +13,9 @@ Do you hate throwing away greeting cards, but hate keeping them too?
 
 ![](assets/hellothere-promo1.png)<br><br>
 
-We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often they're quickly forgotten, along with the thought and care that went into them.
+We all get cards throughout the year - birthdays, graduations, holidays, and so many more. Unfortunately many of these cards aren't kept forever. Far too often they're quickly forgotten, along with the thought and care that went into them.
 
-Hello There is the solution. Cards are categorized into Folders for the occasion. Then you snap pictures of the front, inside, and back, add the date, the sender, and any additional details. 
-
-Cards are stored locally on your device as well as synced to iCloud.
+Hello There is the solution. Cards are categorized into Folders for the occasion. Snap pictures of the front, inside, and back, add the date, the sender, and any additional details. Cards are displayed in whimsical stacks, optimized grids, and even on your home screen.
 
 Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, Shortcuts and much more.
 
@@ -28,7 +26,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
 • Configure portait, landscape, or square cards  
-• Browse cards by occasion, by favorites, or the entire collection by date  
+• Browse cards by occasion, by sender, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
 • Cards and folders are fully editable  
 • Easy to maintain *Senders* list.  
@@ -38,6 +36,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 • Milestones to celebrate your progress  
 • Automatic Light/Dark Mode based on device settings (configurable)  
 • Custom App Icons*    
+• Custom Theme Options*    
 • Localization Support (English, German, Spanish, Dutch, French, Japanese) 
 
 **Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
