@@ -13,13 +13,13 @@ Do you hate throwing away greeting cards, but hate keeping them too?
 
 ![](assets/hellothere-promo1.png)<br><br>
 
-We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and getting the card in the mail.
+We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often they're quickly forgotten, along with the thought and care that went into them.
 
-Hello There is the solution. It allows you to catalog and reference the cards you receive. You categorize them into *Folders* for the occasion, then take pictures of the front, inside, and back of the card. Add the date the card was received, who sent it, and any additional details.
+Hello There is the solution. Cards are categorized into Folders for the occasion. Then you snap pictures of the front, inside, and back, add the date, the sender, and any additional details. 
 
 Cards are stored locally on your device as well as synced to iCloud.
 
-Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, and much more.
+Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, Shortcuts and much more.
 
 ### App Features 
 • Designed with the latest iOS 16 APIs  
@@ -38,7 +38,7 @@ Designed using the latest SDKs, Hello There supports Live Text, Lockscreen Widge
 • Milestones to celebrate your progress  
 • Automatic Light/Dark Mode based on device settings (configurable)  
 • Custom App Icons*    
-• Localization Support (English, German, Spanish, Dutch, French, Chinese) 
+• Localization Support (English, German, Spanish, Dutch, French, Japanese) 
 
 **Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
 
