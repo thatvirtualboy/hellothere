@@ -11,7 +11,7 @@ include_in_header: true
 
 Do you hate throwing away greeting cards, but hate keeping them too?
 
-![](assets/hellothere-promo3.png)<br><br>
+![](assets/hellothere-promo1.png)<br><br>
 
 We all get cards throughout the year - birthdays, holidays, anniversaries, and so many more. Unfortunately most of these cards aren't kept forever. Far too often we quickly forget the thought and care that went into picking out the perfect card, writing that special note, and getting the card in the mail.
 
