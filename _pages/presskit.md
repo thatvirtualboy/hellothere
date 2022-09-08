@@ -41,7 +41,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 
 **Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
 
-![](assets/hellothere-promo1.png)<br><br>
+![](assets/hellothere-promo4.png)<br><br>
 
 ### Plan Breakdown
 
