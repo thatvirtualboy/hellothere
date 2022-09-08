@@ -41,7 +41,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 
 **Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
 
-![](assets/hellothere-promo2.png)<br><br>
+![](assets/hellothere-promo1.png)<br><br>
 
 ### Plan Breakdown
 
@@ -91,6 +91,8 @@ Hello There Pro offers the best user experience and is available in 3 options:
 <img src="assets/lockwidgets.png" width="300" />
 </p>
 
+![](assets/hellothere-promo2.png)<br><br>
+![](assets/hellothere-promo3.png)<br><br>
 
 ### App Store Details
 **Apple App ID:** 1632485298  
