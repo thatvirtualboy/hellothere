@@ -7,7 +7,7 @@ include_in_header: true
 # Press Kit
 
 ### Hello There - Greeting Cards
-#### Launching this Fall
+#### Launching 9.12.22  
 
 Do you hate throwing away greeting cards, but hate keeping them too?
 
