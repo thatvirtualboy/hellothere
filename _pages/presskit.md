@@ -14,7 +14,7 @@ Do you hate throwing away greeting cards, but hate keeping them too?
 
 We all get cards throughout the year - birthdays, graduations, holidays, and so many more. Unfortunately many of these cards aren't kept forever. Far too often they're quickly forgotten, along with the thought and care that went into them.
 
-Hello There is the solution. Cards are categorized into Folders for the occasion. Snap pictures of the front, inside, and back, add the date, the sender, and any additional details. Cards are displayed in whimsical stacks, optimized grids, and even on your home screen.
+With **Hello There**, users can easily log cards into easy-to-use collections. Cards are categorized into Folders for the occasion. Snap pictures of the front, inside, and back, add the date, the sender, and any additional details. Cards are displayed in whimsical stacks, optimized grids, and even on your home screen.
 
 Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, Shortcuts and much more.
 
@@ -27,6 +27,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 • Configure portait, landscape, or square cards  
 • Browse cards by occasion, by sender, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
+• Hello There Post enables users to send hand-written letters anywhere in the world
 • Cards and folders are fully editable  
 • Easy to maintain *Senders* list.  
 • iCloud Sync & Backup*  
@@ -50,6 +51,7 @@ Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen W
 | Unlimited cards | * | * |
 | Unlimited senders | * | * |
 | Featured folder image | * | * |
+| Hello There Post | * | * |
 | Swift Charts | * | * |
 | Metadata export | * | * |
 | Share individual projects | * | * |
