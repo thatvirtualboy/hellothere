@@ -67,9 +67,9 @@ features                                  :
     description                           : Designed exclusively for iPhone and iPad
     fontawesome_icon_name                 : heart
 
-  - title                                 : iOS 16
-    description                           : Built natively using the latest APIs
-    fontawesome_icon_name                 : cogs
+  - title                                 : Mail hand-written letters
+    description                           : Send a high quality hand-written letter anywhere in the world 
+    fontawesome_icon_name                 : envelope
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
