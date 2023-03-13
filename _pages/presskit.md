@@ -86,6 +86,6 @@ Hello There Pro offers the best user experience and is available in 3 options:
 
 ### App Store Details
 **Apple App ID:** 1632485298  
-**Category:** Lifestyle  
+**Category:** Utilities  
 **Developer:** rakTech LLC (USA)  
-**Contact:** You can contact me at [raktech_dev@icloud.com](mailto:raktech_dev@icloud.com) or on Twitter: [@hellothere_app](https://twitter.com/hellothere_app) / [@thatvirtualboy](https://twitter.com/thatvirtualboy)
+**Contact:** You can contact me at [hellothere@raktech.app](mailto:hellothere@raktech.app) or on Twitter: [@hellothere_app](https://twitter.com/hellothere_app) / [@thatvirtualboy](https://twitter.com/thatvirtualboy)
