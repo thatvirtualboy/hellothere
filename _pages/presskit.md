@@ -16,19 +16,19 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 
 ### App Features 
 • Designed with the latest iOS 16 APIs  
-• Auto detect / crop cards when adding from the camera
+• Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
 • Charts reveal trends and sender data  
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
-• Hashtags let you sort cards by theme or topic
+• Hashtags let you sort cards by theme or topic  
 • Browse cards by occasion, by sender, or the entire collection by date  
 • Search the gallery to easily find cards by keyword    
-• Hello There Post enables users to send hand-written letters anywhere in the world
+• Hello There Post enables users to send hand-written letters anywhere in the world  
 • Cards and folders are fully editable  
-• Easy to maintain *Senders* list.  
+• Easy to maintain *Senders* list    
 • iCloud Sync & Backup*  
-• Privacy as a first class citizen
+• Privacy as a first class citizen  
 • iPad support  
 • Face ID / Touch ID*   
 • Milestones to celebrate your progress  
@@ -51,7 +51,7 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 | Hashtags |  | * |
 | Hello There Post | * | * |
 | Swift Charts | * | * |
-| Metadata export | * | * |
+| Live Text | * | * | 
 | Share individual projects | * | * |
 | Multiple photos per card |  | * (up to 10) |
 | Widgets | * | * | 
