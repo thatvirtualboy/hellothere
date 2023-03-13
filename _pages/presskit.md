@@ -14,8 +14,11 @@ A beautiful greeting card organizer for iOS
 
 Hello There is a beautiful iOS app designed to help you effortlessly sort and organize greeting cards that you receive from friends, family, co-workers or anyone. Hello There is the perfect solution for those who want to cherish the memories of their heartfelt greetings and keep them organized for future reference.  
 
+Whether you want to keep track of birthdays, holidays, or other special occasions, Hello There is the perfect tool to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
+
 ### App Features 
-• Designed with the latest iOS 16 APIs  
+• Requires iOS 16.4+  
+• Privacy as a first class citizen  
 • Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
 • Charts reveal trends and sender data  
@@ -23,23 +26,11 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 • Card Details display the card images, who sent it, when it was received, and additional details   
 • Hashtags let you sort cards by theme or topic  
 • Browse cards by occasion, by sender, or the entire collection by date  
-• Search the gallery to easily find cards by keyword    
 • Hello There Post enables users to send hand-written letters anywhere in the world  
-• Cards and folders are fully editable  
 • Easy to maintain *Senders* list    
 • iCloud Sync & Backup*  
-• Privacy as a first class citizen  
-• iPad support  
-• Face ID / Touch ID*   
-• Milestones to celebrate your progress  
-• Automatic Light/Dark Mode based on device settings (configurable)  
-• Custom App Icons*    
-• Custom Theme Options*    
-• Localization Support (English, German, Spanish, Dutch, French, Japanese) 
 
-**Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
-
-![](assets/hellothere-promo4.png)<br><br>
+![](assets/hellothere-promo5.png)<br><br>
 
 ### Plan Breakdown
 
