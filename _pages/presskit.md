@@ -81,8 +81,7 @@ Hello There Pro offers the best user experience and is available in 3 options:
 <img src="assets/hello6.png" width="300" />
 </p>
 
-![](assets/hellothere-promo2.png)<br><br>
-![](assets/hellothere-promo3.png)<br><br>
+
 
 ### App Store Details
 **Apple App ID:** 1632485298  
