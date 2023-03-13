@@ -28,7 +28,7 @@ Whether you want to keep track of birthdays, holidays, or other special occasion
 • Browse cards by occasion, by sender, or the entire collection by date  
 • Hello There Post enables users to send hand-written letters anywhere in the world  
 • Easy to maintain *Senders* list    
-• iCloud Sync & Backup*  
+• iCloud Sync & Backup  
 
 ![](assets/hellothere-promo5.png)<br><br>
 
