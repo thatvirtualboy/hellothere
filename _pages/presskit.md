@@ -53,7 +53,7 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 | Swift Charts | * | * |
 | Metadata export | * | * |
 | Share individual projects | * | * |
-| Multiple photos per card |  | * (up to 4) |
+| Multiple photos per card |  | * (up to 10) |
 | Widgets | * | * | 
 | Color-matched widgets |  | * |
 | Configurable Wallpaper |  | * |
