@@ -69,8 +69,16 @@ Hello There Pro offers the best user experience and is available in 3 options:
 
 ### App Screenshots
 <p float="left">
-<img src="assets/widgets.png" width="300" />
-<img src="assets/lockwidgets.png" width="300" />
+<img src="assets/hello3.png" width="300" />
+<img src="assets/hello1.png" width="300" />
+</p>
+<p float="left">
+<img src="assets/hello2.png" width="300" />
+<img src="assets/hello4.png" width="300" />
+</p>
+<p float="left">
+<img src="assets/hello5.png" width="300" />
+<img src="assets/hello6.png" width="300" />
 </p>
 
 ![](assets/hellothere-promo2.png)<br><br>
