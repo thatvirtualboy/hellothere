@@ -72,10 +72,6 @@ Hello There Pro offers the best user experience and is available in 3 options:
 <img src="assets/basicicons.png" width="300" />
 </p>
 <p float="left">
-<img src="assets/widgets.png" width="300" />
-<img src="assets/lockwidgets.png" width="300" />
-</p>
-<p float="left">
 <img src="assets/hello5.png" width="300" />
 <img src="assets/hello6.png" width="300" />
 </p>
