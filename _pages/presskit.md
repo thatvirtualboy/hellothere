@@ -6,61 +6,49 @@ include_in_header: true
 
 # Press Kit
 
-### Hello There - Greeting Cards
+### Hello There - Greeting Cards 2.0 coming Spring 2023!
 
-Do you hate throwing away greeting cards, but hate keeping them too?
+A beautiful greeting card organizer for iOS
 
 ![](assets/hellothere-promo1.png)<br><br>
 
-We all get cards throughout the year - birthdays, graduations, holidays, and so many more. Unfortunately many of these cards aren't kept forever. Far too often they're quickly forgotten, along with the thought and care that went into them.
+Hello There is a beautiful iOS app designed to help you effortlessly sort and organize greeting cards that you receive from friends, family, co-workers or anyone. Hello There is the perfect solution for those who want to cherish the memories of their heartfelt greetings and keep them organized for future reference.  
 
-With **Hello There**, users can easily log cards into easy-to-use collections. Cards are categorized into Folders for the occasion. Snap pictures of the front, inside, and back, add the date, the sender, and any additional details. Cards are displayed in whimsical stacks, optimized grids, and even on your home screen.
-
-Designed using the latest iOS SDKs, Hello There supports Live Text, Lockscreen Widgets, Charts, Shortcuts and much more.
+Whether you want to keep track of birthdays, holidays, or other special occasions, Hello There is the perfect tool to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
 
 ### App Features 
-• Designed with the latest iOS 16 APIs  
+• Requires iOS 16.4+  
+• Privacy as a first class citizen  
+• Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
 • Charts reveal trends and sender data  
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
-• Configure portait, landscape, or square cards  
+• Hashtags let you sort cards by theme or topic  
 • Browse cards by occasion, by sender, or the entire collection by date  
-• Search the gallery to easily find cards by keyword    
-• Hello There Post enables users to send hand-written letters anywhere in the world
-• Cards and folders are fully editable  
-• Easy to maintain *Senders* list.  
-• iCloud Sync & Backup*  
-• iPad support  
-• Face ID / Touch ID*   
-• Milestones to celebrate your progress  
-• Automatic Light/Dark Mode based on device settings (configurable)  
-• Custom App Icons*    
-• Custom Theme Options*    
-• Localization Support (English, German, Spanish, Dutch, French, Japanese) 
+• Hello There Post enables users to send hand-written letters anywhere in the world  
+• Easy to maintain *Senders* list    
+• iCloud Sync & Backup  
 
-**Requires a Hello There Pro Subscription, or a one-time payment for Lifetime sub.* 
-
-![](assets/hellothere-promo4.png)<br><br>
+![](assets/hellothere-promo5.png)<br><br>
 
 ### Plan Breakdown
 
 | Feature | Basic | Pro |
 | --- | --- | --- |
-| Unlimited folders | | * |
+| Unlimited collections |  | * |
 | Unlimited cards | * | * |
 | Unlimited senders | * | * |
-| Featured folder image | * | * |
+| Hashtags |  | * |
 | Hello There Post | * | * |
 | Swift Charts | * | * |
-| Metadata export | * | * |
+| Live Text | * | * | 
 | Share individual projects | * | * |
-| Multiple photos per card |  | * (up to 4) |
+| Multiple photos per card |  | * (up to 10) |
 | Widgets | * | * | 
 | Color-matched widgets |  | * |
 | Configurable Wallpaper |  | * |
 | iCloud sync & backup |  | * |
-| Additional color themes |  | * |
 | Custom icons |  | * |
 | Touch ID / Face ID |  | * |
 
@@ -72,20 +60,12 @@ Hello There Pro offers the best user experience and is available in 3 options:
 
 ### App Screenshots
 <p float="left">
-<img src="assets/folders2.png" width="300" />
-<img src="assets/foldermax.png" width="300" />
+<img src="assets/hello3.png" width="300" />
+<img src="assets/hello1.png" width="300" />
 </p>
 <p float="left">
-<img src="assets/cards.png" width="300" />
-<img src="assets/chart.png" width="300" />
-</p>
-<p float="left">
-<img src="assets/celebrate.png" width="300" />
-<img src="assets/folderview.png" width="300" />
-</p>
-<p float="left">
-<img src="assets/card1.png" width="300" />
-<img src="assets/card2.png" width="300" />
+<img src="assets/hello2.png" width="300" />
+<img src="assets/hello4.png" width="300" />
 </p>
 <p float="left">
 <img src="assets/stats.png" width="300" />
@@ -95,12 +75,16 @@ Hello There Pro offers the best user experience and is available in 3 options:
 <img src="assets/widgets.png" width="300" />
 <img src="assets/lockwidgets.png" width="300" />
 </p>
+<p float="left">
+<img src="assets/hello5.png" width="300" />
+<img src="assets/hello6.png" width="300" />
+</p>
 
 ![](assets/hellothere-promo2.png)<br><br>
 ![](assets/hellothere-promo3.png)<br><br>
 
 ### App Store Details
 **Apple App ID:** 1632485298  
-**Category:** Lifestyle  
+**Category:** Utilities  
 **Developer:** rakTech LLC (USA)  
-**Contact:** You can contact me at [raktech_dev@icloud.com](mailto:raktech_dev@icloud.com) or on Twitter: [@hellothere_app](https://twitter.com/hellothere_app) / [@thatvirtualboy](https://twitter.com/thatvirtualboy)
+**Contact:** You can contact me at [hellothere@raktech.app](mailto:hellothere@raktech.app) or on Twitter: [@hellothere_app](https://twitter.com/hellothere_app) / [@thatvirtualboy](https://twitter.com/thatvirtualboy)
