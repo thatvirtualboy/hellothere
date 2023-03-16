@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : lock
 
   - title                                 : iCloud
-    description                           : Folders and cards are automatically synced and backed up to iCloud (Pro)
+    description                           : Collections and cards are automatically synced and backed up to iCloud (Pro)
     fontawesome_icon_name                 : cloud
 
   - title                                 : Security
