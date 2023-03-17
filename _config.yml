@@ -76,15 +76,14 @@ features                                  :
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
     
     
-    # Press Review List                       Edit, add or remove press reviews to be presented.
+# Press Review List                       Edit, add or remove press reviews to be presented.
 pressreviews                              :
 
   - author                                : Brent Dirks
-    quote                                 : [Hello There] is well thought out and easy to use
+    quote                                 : Hello There is well thought out and easy to use
     sitename                              : App Advice
     siteurl                               : https://appadvice.com/post/preserve-your-personalized-greeting-card-memories-with-hello-there/775005
     fontawesome_icon_name                 : newspaper
-    
     
   - author                                : Andrew O'Hara
     quote                                 : An awesome way to be reminded of cards you’ve forgotten about.
