@@ -17,7 +17,7 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 Whether you want to keep track of birthdays, holidays, or other special occasions, there's no better app to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
 
 ### App Features 
-• Requires iOS 16.4+  
+• Requires iOS 16.0+  
 • Privacy as a first class citizen  
 • Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
