@@ -6,7 +6,7 @@ include_in_header: true
 
 # Press Kit
 
-### Hello There - Greeting Cards 2.0 coming Spring 2023!
+### Hello There - Greeting Cards
 
 A beautiful greeting card organizer for iOS
 
