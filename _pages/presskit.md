@@ -16,11 +16,23 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 
 Whether you want to keep track of birthdays, holidays, or other special occasions, there's no better app to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
 
+### Introducing Sound Clips
+![](assets/HelloThere_SoundClip_Media_Feature.jpg)<br>
+Whether it's a musical greeting, a card with a custom recorded message, or sound effects -- it's now insanely easy to add audio to your card entries.  
+• Audio card batteries don't last very long -- Sound Clips will stick around as long as you have the app  
+• Sound Clips are exclusive to Hello There+ users  
+• Sound Clips can be up to 30 seconds long  
+• Sound Clips are safely stored in iCloud alongside the rest of your card data and sync across devices  
+• Sound Clips are fully exportable for added safekeeping  
+• Check out the new Sound Clips custom icon now available  
+
+
 ### App Features 
 • Requires iOS 16.0+  
 • Privacy as a first class citizen  
 • Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
+• Sound Clips help you relive the full experience of audio cards  
 • Charts reveal trends and sender data  
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
@@ -34,7 +46,7 @@ Whether you want to keep track of birthdays, holidays, or other special occasion
 
 ### Plan Breakdown
 
-| Feature | Basic | Pro |
+| Feature | Free | Hello There+ |
 | --- | --- | --- |
 | Unlimited collections |  | * |
 | Unlimited cards | * | * |
@@ -52,7 +64,7 @@ Whether you want to keep track of birthdays, holidays, or other special occasion
 | Custom icons |  | * |
 | Touch ID / Face ID |  | * |
 
-Hello There Pro offers the best user experience and is available in 3 options:
+Hello There+ offers the best user experience and is available in 3 options:
 
 1. Monthly Auto-Renewable Subscription
 2. Annual Auto-Renewable Subscription
