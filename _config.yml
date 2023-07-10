@@ -52,12 +52,12 @@ features                                  :
     fontawesome_icon_name                 : lock
 
   - title                                 : iCloud
-    description                           : Collections and cards are automatically synced and backed up to iCloud (Pro)
+    description                           : Collections and cards are automatically synced and backed up to iCloud
     fontawesome_icon_name                 : cloud
 
-  - title                                 : Security
-    description                           : Lock your app with biometric authentication (Pro)
-    fontawesome_icon_name                 : fingerprint
+  - title                                 : Sound Clips
+    description                           : Capture cards that contain a musical greeting
+    fontawesome_icon_name                 : music
   
   - title                                 : Favorites
     description                           : Some cards are just better than others -- easily find your favorites
@@ -80,7 +80,7 @@ features                                  :
 pressreviews                              :
 
   - author                                : Brent Dirks
-    quote                                 : Hello There is well thought out and easy to use
+    quote                                 : Hello There is well thought out and easy to use.
     sitename                              : App Advice
     siteurl                               : https://appadvice.com/post/preserve-your-personalized-greeting-card-memories-with-hello-there/775005
     fontawesome_icon_name                 : newspaper
