@@ -48,16 +48,17 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 
 | Feature | Free | Hello There+ |
 | --- | --- | --- |
-| Unlimited collections |  | * |
 | Unlimited cards | * | * |
-| Unlimited senders | * | * |
-| Hashtags |  | * |
 | Hello There Post | * | * |
 | Swift Charts | * | * |
 | Live Text | * | * | 
 | Share individual projects | * | * |
-| Multiple photos per card |  | * (up to 10) |
+| Multiple photos per card | * (up to 2) | * (up to 10) |
 | Widgets | * | * | 
+| Unlimited collections |  | * | 
+| Unlimited senders |  | * |
+| Hashtags |  | * |
+| Sound Clips |  | * |
 | Color-matched widgets |  | * |
 | Configurable Wallpaper |  | * |
 | iCloud sync & backup |  | * |
