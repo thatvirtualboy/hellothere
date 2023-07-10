@@ -19,6 +19,7 @@ Whether you want to keep track of birthdays, holidays, or other special occasion
 ### Introducing Sound Clips
 ![](assets/HelloThere_SoundClip_Media_Feature.jpg)<br>
 Whether it's a musical greeting, a card with a custom recorded message, or sound effects -- it's now insanely easy to add audio to your card entries.  
+
 • Audio card batteries don't last very long -- Sound Clips will stick around as long as you have the app  
 • Sound Clips are exclusive to Hello There+ users  
 • Sound Clips can be up to 30 seconds long  
@@ -48,16 +49,17 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 
 | Feature | Free | Hello There+ |
 | --- | --- | --- |
-| Unlimited collections |  | * |
 | Unlimited cards | * | * |
-| Unlimited senders | * | * |
-| Hashtags |  | * |
 | Hello There Post | * | * |
 | Swift Charts | * | * |
 | Live Text | * | * | 
 | Share individual projects | * | * |
-| Multiple photos per card |  | * (up to 10) |
+| Multiple photos per card | * (up to 2) | * (up to 10) |
 | Widgets | * | * | 
+| Unlimited collections |  | * | 
+| Unlimited senders |  | * |
+| Hashtags |  | * |
+| Sound Clips |  | * |
 | Color-matched widgets |  | * |
 | Configurable Wallpaper |  | * |
 | iCloud sync & backup |  | * |
