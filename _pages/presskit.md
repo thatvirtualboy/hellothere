@@ -56,6 +56,9 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 | Share individual projects | * | * |
 | Multiple photos per card | * (up to 2) | * (up to 10) |
 | Widgets | * | * | 
+| Card Stacks | * | * | 
+| Configurable Home View | * | * | 
+| Data Export | * | * | 
 | Unlimited collections |  | * | 
 | Unlimited senders |  | * |
 | Hashtags |  | * |
