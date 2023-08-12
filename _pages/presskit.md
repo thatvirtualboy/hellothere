@@ -11,7 +11,7 @@ include_in_header: true
 A beautiful greeting card organizer for iOS
 
 ## iOS 17 Update // Coming Fall 2023
-![]assets/hellothere-23-bento-rounded.png<br><br>
+![](assets/hellothere-23-bento-rounded.png)<br><br>
 
 Get ready for some exciting updates coming Fall 2023 alonside iOS 17. Hello There 2.3 is packed with new features like E-Post, Nudges, Stickers, and so much more. If you'd like to join the beta program, get in touch using a method at the bottom of this page.  
 
