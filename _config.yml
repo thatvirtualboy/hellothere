@@ -79,6 +79,12 @@ features                                  :
 # Press Review List                       Edit, add or remove press reviews to be presented.
 pressreviews                              :
 
+  - author                                : Michael Potuck
+    quote                                 : A neat solution to saving special greeting cards without keeping the physical clutter.
+    sitename                              : 9To5Mac
+    siteurl                               : https://9to5mac.com/2023/03/27/hello-there-ios-greeting-card-organizer-update/
+    fontawesome_icon_name                 : newspaper
+    
   - author                                : Brent Dirks
     quote                                 : Hello There is well thought out and easy to use.
     sitename                              : App Advice
@@ -89,6 +95,12 @@ pressreviews                              :
     quote                                 : An awesome way to be reminded of cards you’ve forgotten about.
     sitename                              : Fueled
     siteurl                               : https://fueled.com/blog/hello-there-helps-keep-cards-without-clutter/
+    fontawesome_icon_name                 : newspaper
+
+  - author                                : Martin
+    quote                                 : Seeing a card you received a while ago appear in a widget has something very special about it.
+    sitename                              : Martindb
+    siteurl                               : https://martindb.net/app-highlight/hello-there/
     fontawesome_icon_name                 : newspaper
   
     
