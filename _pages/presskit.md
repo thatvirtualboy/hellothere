@@ -10,16 +10,18 @@ include_in_header: true
 
 A beautiful greeting card organizer for iOS
 
-### iOS 17 Update // Coming Fall 2023
-![](assets/hellothere-23-bento-rounded.png)
-
-Get ready for some exciting updates coming Fall 2023 alonside iOS 17. Hello There 2.3 is packed with new features like E-Post, Nudges, Stickers, and so much more. If you'd like to join the beta program, get in touch using a method at the bottom of this page.  
-
 ![](assets/hellothere-promo1.png)<br><br>
 
-Hello There is a beautiful iOS app designed to help you effortlessly sort and organize greeting cards that you receive from friends, family, co-workers or anyone. Hello There is the perfect tool for those who want to cherish the memories of their heartfelt greetings and keep them organized for future reference.  
+Hello There is a beautiful iOS app designed to help you effortlessly sort and organize greeting cards that you receive from friends, family, co-workers or anyone. Hello There is the perfect tool for those who want to cherish the memories of their thoughtful greetings and keep them organized for future reference.  
 
 Whether you want to keep track of birthdays, holidays, or other special occasions, there's no better app to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
+
+![](assets/hellothere-23-bento-rounded.png)
+Hello There is ready for iOS 17 and packed with new features like E-Post, Nudges, Stickers, and lots more  
+• **E-Post** - lightweight and delightful ecards that can be shared anywhere  
+• **Nudges** - simple and effective notifications designed to help you never miss an event that benefits from a card, ecard, or sticker  
+• **Stickers** - stickers are huge in iOS 17 and Hello There is ready! Share your favorite pixel friend from the E-Post Pixel Collection as a sticker in Messages  
+• Plus nearly 30 other updates available with the Fall 2023 release. Check out the [App Store Page](https://apple.co/3TWTeey) for the full change log
 
 ### Introducing Sound Clips
 ![](assets/HelloThere_SoundClip_Media_Feature.jpg)<br>
@@ -34,7 +36,7 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 
 
 ### App Features 
-• Requires iOS 16.0+  
+• Requires iOS 16.4+  
 • Privacy as a first class citizen  
 • Auto detect / crop cards when adding from the camera  
 • Live Text makes your cards come to life  
@@ -43,6 +45,9 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 • Widgets for your home screen and lock screen  
 • Card Details display the card images, who sent it, when it was received, and additional details   
 • Hashtags let you sort cards by theme or topic  
+• Stickers to send quick greetings in Messages  
+• E-Post for sharing delightful ecards anywhere  
+• Nudges for never missing an important event  
 • Browse cards by occasion, by sender, or the entire collection by date  
 • Hello There Post enables users to send hand-written letters anywhere in the world  
 • Easy to maintain *Senders* list    
@@ -64,6 +69,9 @@ Whether it's a musical greeting, a card with a custom recorded message, or sound
 | Card Stacks | * | * | 
 | Configurable Home View | * | * | 
 | Data Export | * | * | 
+| Stickers | * | * | 
+| Nudges | * (up to 3) | * | 
+| E-Post | * (limited selection) | * |
 | Unlimited collections |  | * | 
 | Unlimited senders |  | * |
 | Hashtags |  | * |
