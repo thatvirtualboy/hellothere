@@ -59,16 +59,16 @@ features                                  :
     description                           : Capture cards that contain a musical greeting
     fontawesome_icon_name                 : music
   
-  - title                                 : Favorites
-    description                           : Some cards are just better than others -- easily find your favorites
+  - title                                 : Stickers
+    description                           : Share fun stickers integrated right into Apple Messages
     fontawesome_icon_name                 : star
 
   - title                                 : Apple exclusive
     description                           : Designed exclusively for iPhone and iPad
     fontawesome_icon_name                 : heart
 
-  - title                                 : Mail hand-written letters
-    description                           : Send a high quality hand-written letter anywhere in the world 
+  - title                                 : Hello There Post
+    description                           : Send a high quality hand-written letter anywhere in the world, or digital ecards using E-Post  
     fontawesome_icon_name                 : envelope
 
   - title                                 : # New Feature Title
