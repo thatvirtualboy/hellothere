@@ -17,7 +17,7 @@ Hello There is a beautiful iOS app designed to help you effortlessly sort and or
 Whether you want to keep track of birthdays, holidays, or other special occasions, there's no better app to help you stay organized. Download Hello There today and experience the joy of keeping your greeting cards organized and at your fingertips!
 
 ![](assets/hellothere-23-bento-rounded.png)
-Hello There is ready for iOS 17 and packed with new features like E-Post, Nudges, Stickers, and lots more  
+Hello There is ready for iOS 17 and packed with new features and support for StandBy mode, TipKit, Pie Charts, and lots more  
 • **E-Post** - lightweight and delightful ecards that can be shared anywhere  
 • **Nudges** - simple and effective notifications designed to help you never miss an event that benefits from a card, ecard, or sticker  
 • **Stickers** - stickers are huge in iOS 17 and Hello There is ready! Share your favorite pixel friend from the E-Post Pixel Collection as a sticker in Messages  
@@ -108,6 +108,7 @@ Hello There+ offers the best user experience and is available in 3 options:
 
 ![](assets/hellothere-promo2.png)<br><br>
 ![](assets/hellothere-promo3.png)<br><br>
+![](assets/hellothere-ios17.png)<br><br>
 
 ### App Store Details
 **Apple App ID:** 1632485298  
